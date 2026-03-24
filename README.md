@@ -37,8 +37,11 @@ representing hundreds of billions in healthcare spending. This project analyzes
 - **Python 3.13** — data processing and analysis
 - **Pandas** — data manipulation and aggregation
 - **Matplotlib / Seaborn** — data visualization
+- **SQLite / DBeaver** — SQL query validation
 - **Jupyter Notebook** — exploratory analysis
 - **Git / GitHub** — version control
+
+> All results were validated across both Python/Pandas and SQL/SQLite, confirming consistency in the analysis pipeline.
 
 ---
 
