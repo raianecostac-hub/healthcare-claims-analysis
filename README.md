@@ -39,6 +39,7 @@ representing hundreds of billions in healthcare spending. This project analyzes
 - **Matplotlib / Seaborn** — data visualization
 - **SQLite / DBeaver** — SQL query validation
 - **Jupyter Notebook** — exploratory analysis
+- **Power BI Desktop** — executive dashboard
 - **Git / GitHub** — version control
 
 > All results were validated across both Python/Pandas and SQL/SQLite, confirming consistency in the analysis pipeline.
@@ -96,6 +97,8 @@ beyond what is publicly available in this dataset.
 ### Procedure Volume vs Total Medicare Cost
 ![Volume vs Cost](docs/volume_vs_cost_bars.png)
 
+### Executive Dashboard (Power BI)
+![Dashboard](docs/dashboard_preview.png)
 ---
 
 ## Repository Structure
