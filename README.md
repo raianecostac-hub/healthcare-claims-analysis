@@ -98,7 +98,7 @@ beyond what is publicly available in this dataset.
 ![Volume vs Cost](docs/volume_vs_cost_bars.png)
 
 ### Executive Dashboard (Power BI)
-![Dashboard](docs/dashboard_preview.png)
+![Dashboard](docs/docs:dashboard_preview.png)
 ---
 
 ## Repository Structure
